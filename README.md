@@ -2,10 +2,10 @@
 <p>Full-Stack Developer at Grupo Arena Empresarial | Dev. BR 🇧🇷</p>
 <p>Enthusiast of technologies to solve marketing demands</p>
 
-<p>I'm glad you're here on my profile. Let's connect and exchange ideas?</p>
+<p>Let's connect and exchange ideas?</p>
 <p>I'm always open to discussing projects, marketing strategies, funnels, and of course, coding 👀</p>
 
-#### Skills
+#### Stacks
 <div>
   <img height="35px" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="35px" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -16,7 +16,6 @@
   <img height="35px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="35px" heigth="35px" alt="mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img width="35px" heigth="35px" alt="CassandDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />          
-  
 </div>
 <br>
 
